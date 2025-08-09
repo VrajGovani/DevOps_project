@@ -23,57 +23,16 @@ Using MobaXterm Software for : ( Master , Slave , Jenkins , Nexus , SonarQube an
 <img width="1905" height="695" alt="Screenshot 2025-08-08 135921" src="https://github.com/user-attachments/assets/a8400af1-f909-4418-8997-9f6dea0bfbd5" />
 
 **Email - Notification **
+![WhatsApp Image 2025-08-08 at 14 02 21_3c0d1951](https://github.com/user-attachments/assets/d7e3c320-0824-4988-99a2-f7c367d7d7ea)
 
-# BoardgameListingWebApp
+Web-Application
+<img width="1753" height="881" alt="image" src="https://github.com/user-attachments/assets/6bd5dc8d-2026-4c09-b884-75a70b2253aa" />
 
-## Description
+** Monitoring and Analysis Using Grafana and Prometheus **
+<img width="1771" height="835" alt="image" src="https://github.com/user-attachments/assets/468afd04-89d0-444e-b0a9-925273714d02" />
 
-**Board Game Database Full-Stack Web Application.**
-This web application displays lists of board games and their reviews. While anyone can view the board game lists and reviews, they are required to log in to add/ edit the board games and their reviews. The 'users' have the authority to add board games to the list and add reviews, and the 'managers' have the authority to edit/ delete the reviews on top of the authorities of users.  
+Display of the Site configuration
+<img width="1767" height="842" alt="image" src="https://github.com/user-attachments/assets/7b38a22e-1f90-41ee-9cbc-460ab398d301" />
 
-## Technologies
+<img width="1767" height="842" alt="image" src="https://github.com/user-attachments/assets/c753d319-bdae-4b4d-b617-d16dd5e1cde4" />
 
-- Java
-- Spring Boot
-- Amazon Web Services(AWS) EC2
-- Thymeleaf
-- Thymeleaf Fragments
-- HTML5
-- CSS
-- JavaScript
-- Spring MVC
-- JDBC
-- H2 Database Engine (In-memory)
-- JUnit test framework
-- Spring Security
-- Twitter Bootstrap
-- Maven
-
-## Features
-
-- Full-Stack Application
-- UI components created with Thymeleaf and styled with Twitter Bootstrap
-- Authentication and authorization using Spring Security
-  - Authentication by allowing the users to authenticate with a username and password
-  - Authorization by granting different permissions based on the roles (non-members, users, and managers)
-- Different roles (non-members, users, and managers) with varying levels of permissions
-  - Non-members only can see the boardgame lists and reviews
-  - Users can add board games and write reviews
-  - Managers can edit and delete the reviews
-- Deployed the application on AWS EC2
-- JUnit test framework for unit testing
-- Spring MVC best practices to segregate views, controllers, and database packages
-- JDBC for database connectivity and interaction
-- CRUD (Create, Read, Update, Delete) operations for managing data in the database
-- Schema.sql file to customize the schema and input initial data
-- Thymeleaf Fragments to reduce redundancy of repeating HTML elements (head, footer, navigation)
-
-## How to Run
-
-1. Clone the repository
-2. Open the project in your IDE of choice
-3. Run the application
-4. To use initial user data, use the following credentials.
-  - username: bugs    |     password: bunny (user role)
-  - username: daffy   |     password: duck  (manager role)
-5. You can also sign-up as a new user and customize your role to play with the application! 😊
