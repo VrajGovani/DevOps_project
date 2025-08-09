@@ -1,5 +1,13 @@
 Complete DevOps Structure PipeLine
+
 <img width="1156" height="829" alt="Screenshot 2025-08-08 134024" src="https://github.com/user-attachments/assets/84a8a15d-f69c-4b7a-ade4-9b539e8d5a3c" />
+
+<img width="1919" height="927" alt="Screenshot 2025-08-08 134555" src="https://github.com/user-attachments/assets/cd010dd3-5de9-4c3f-a8a5-82ad1a996abe" />
+<img width="1919" height="929" alt="Screenshot 2025-08-08 134500" src="https://github.com/user-attachments/assets/9ff89b36-8069-4489-9277-5687d6316646" />
+
+Using MobaXterm Software for : ( Master , Slave , Jenkins , Nexus , SonarQube and Required virtual Machines
+<img width="1919" height="1079" alt="Screenshot 2025-08-08 134705" src="https://github.com/user-attachments/assets/20d601be-7d14-49c8-ad5a-aa7b9ae66788" />
+
 
 # BoardgameListingWebApp
 
